@@ -1,3 +1,4 @@
+Angle-based clustering of time series
 
 AngClust_Code_MacOS.zip         Java code to implement AngClust in Eclipse on Mac OS.
 AngClust_Code_WinLinux.zip      Java code to implement AngClust in Eclipse on Windows and Linux.   
